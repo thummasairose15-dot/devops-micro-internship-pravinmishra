@@ -59,7 +59,7 @@ Write a short explanation (**100–150 words**) that includes:
 
 ## Answer
 
-Add your answer here...
+The internet uses various networking concepts to transfer data between devices. Packet Switching is a technique that divides data into small packets and sends them through a network. These packets are reassembled at the destination. An IP Address is a unique numerical address assigned to a device, helping identify and communicate with it. TCP/IP stands for Transmission Control Protocol/Internet Protocol. It is a set of protocols used for communication over the internet. TCP ensures reliable data delivery, while IP handles addressing and routing. HTTP (HyperText Transfer Protocol) is used to transfer web pages between browsers and servers. HTTPS is the secure version of HTTP that encrypts data to protect sensitive information such as passwords and personal details.
 
 ---
 
