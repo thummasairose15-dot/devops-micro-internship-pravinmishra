@@ -34,7 +34,11 @@ Replace `task-1-chatgpt.png` with your actual screenshot file name.
 
 ## What I Learned (2–3 lines)
 
-Add your answer here...
+I learned that a networking protocol is a set of rules used by devices to communicate with each other.
+
+I understood the importance of protocols and how they help computers exchange data correctly.
+
+I also learned about HTTP, which is used to transfer web pages between a browser and a server.
 
 ---
 
