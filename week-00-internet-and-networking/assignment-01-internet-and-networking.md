@@ -146,7 +146,10 @@ In **50–100 words**, explain in your own words:
 
 ## Answer
 
-Add your answer here...
+1.DNS stands for Domain Name System. It is a system that converts human-readable domain names, such as google.com, into IP addresses that computers use to communicate over the internet. DNS works like a phonebook for the internet. When we type a website name into a browser, DNS finds the corresponding IP address and helps the browser connect to the correct website. This makes browsing easier because we do not need to remember numerical IP addresses.
+
+2.The A record (Address Record) should be used to connect a domain to the given IPv4 address.
+Why? An A record maps a domain name to an IPv4 address. It helps users access a website using its domain name instead of remembering the numerical IP address.
 
 ---
 
